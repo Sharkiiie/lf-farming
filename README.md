@@ -1,10 +1,13 @@
 Thank you for using my script! ❤️
+
 Feel free to contact me on Discord if you have any questions or need any support! `Sharkie#6969`
+
 I'm always glad to hear feedback and any suggestions on how I can improve my scripts, feel free to let me know!
 
 Feel free to make a pull request with any improvements!
 
 --- INSTALL INSTRUCTIONS ---
+
 Drag and drop lf-farming into your resources folder and ensure it in your server cfg. (Or put it in your [qb] folder. EZ Clap)
 
 ```
